@@ -1,0 +1,4 @@
+#ifndef EXAMPLE_HEADER_H
+#define EXAMPLE_HEADER_H
+
+#endif//EXAMPLE_HEADER_H
